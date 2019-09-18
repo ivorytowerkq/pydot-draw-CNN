@@ -1,2 +1,2 @@
-# pydot-draw-CNN
-pydot draw CNN
+# matplotlib and pydot-draw-CNN
+matplotlib and pydot draw CNN
